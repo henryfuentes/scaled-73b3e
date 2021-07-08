@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Funnels Funnels Funnels .... Why?
 subtitle: lorem-ipsum
 img_alt: lorem-ipsum
 seo:
